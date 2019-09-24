@@ -1,4 +1,3 @@
-
 public class Temperatura {
     
     public double converterParaCelsius(double f){

@@ -1,4 +1,3 @@
-
 public class Casa {
     
     private String cor;

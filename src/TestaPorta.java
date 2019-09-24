@@ -1,4 +1,3 @@
-
 public class TestaPorta {
     
     public static void main(String[] args){
@@ -8,9 +7,6 @@ public class TestaPorta {
         p1.pinta("vermelho");
         p1.abre();
         p1.estaAberta();
-        
-        
-        
         System.out.println("Porta: " + p1.getCor() + "\nDimensões: " + p1.getDimensaoX() + " x " 
                 +p1.getDimensaoY() + " x " + p1.getDimensaoZ());
     }
